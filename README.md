@@ -31,6 +31,14 @@ Optimized for **Kali Linux**. The toolkit manages the following dependencies aut
 ## 📥 Installation & Usage
 
 1. **Clone the official repository:**
-   ```bash
    git clone [https://github.com/tunaproducts/Tuna-Privacy-Shield.git](https://github.com/tunaproducts/Tuna-Privacy-Shield.git)
-   cd Tuna-Privacy-Shield
+   
+3. cd Tuna-Privacy-Shield
+
+3: Grant Execution Permissions
+
+   chmod +x tuna-shield.sh
+   
+4: Deploy the Shield (Root Access)
+
+sudo ./tuna-shield.sh
